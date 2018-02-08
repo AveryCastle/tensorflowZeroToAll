@@ -1,3 +1,5 @@
 venv/
 
 notebook/.ipynb_checkpoints/*
+
+logs/
